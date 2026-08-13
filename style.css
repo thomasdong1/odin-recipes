@@ -1,0 +1,34 @@
+html {
+
+}
+
+a {
+    color: white;
+}
+
+.title {
+    text-align: center;
+    font-family: 'Courier New', Courier, sans-serif;
+    font-size: 60px;
+    color: palevioletred;
+}
+
+.menu {
+    text-align: center;
+    padding: 30px;
+    margin: 10px 10px 10px 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+.menu.lasagna{
+    background-color: orange;
+}
+
+.menu.burger{
+    background-color: green;
+}
+
+.menu.bbqchicken{
+    background-color: brown;
+}
